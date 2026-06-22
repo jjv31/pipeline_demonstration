@@ -2,6 +2,9 @@
 res/dataset_folds/
 res/pnc_demo_raw.csv
 
+# --- Manually created PDF snapshots (not part of the source; kept local only) ---
+PDF outputs/
+
 # --- Editor / tooling ---
 .ipynb_checkpoints/
 __pycache__/
