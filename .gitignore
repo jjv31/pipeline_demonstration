@@ -5,6 +5,9 @@ res/pnc_demo_raw.csv
 # --- Manually created PDF snapshots (not part of the source; kept local only) ---
 PDF outputs/
 
+# --- Local instruction manual (kept local only; never published) ---
+_Google Colab Instructions.docx
+
 # --- Editor / tooling ---
 .ipynb_checkpoints/
 __pycache__/
