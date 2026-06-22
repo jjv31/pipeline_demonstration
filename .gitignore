@@ -1,0 +1,15 @@
+# --- Programmatically generated artifacts (recreated when the notebook runs) ---
+res/dataset_folds/
+res/pnc_demo_raw.csv
+
+# --- Editor / tooling ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Removed working folder (contents deleted) ---
+raw files - formatting only/
